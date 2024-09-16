@@ -1,0 +1,14 @@
+{
+  "the_peak": {
+    "subtitle": "sounds.the_peak.the_peak",
+    "sounds": [
+      "the_peak:the_peak"
+    ]
+  },
+  "death_sound": {
+    "sounds": [{"name": "the_peak:death_sound"}]
+  },
+  "thats_my_shoulder": {
+    "sounds": [{"name": "the_peak:thats_my_shoulder"}]
+  }
+}
